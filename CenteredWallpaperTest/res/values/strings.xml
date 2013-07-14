@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">CenteredWallpaperTest</string>
+    <string name="centered_wallpaper">Centered Wallpaper Test</string>
+    <string name="centered_wallpaper_test">Simple Test Wallpaper</string>
+    <string name="settings">Settings</string>
+    <string name="draw_centered">Draw Centered</string>
+
+</resources>
